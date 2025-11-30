@@ -1,0 +1,35 @@
+# CODTECH INTERNSHIP – TASK 3  
+## AI Chatbot Using NLP (Python + NLTK)
+
+### 📌 Project Overview
+This project is developed as part of **CODTECH Internship Task 3**, where the objective is to build a simple **AI Chatbot** using **Natural Language Processing (NLP)** with the Python NLTK library.
+
+The chatbot can understand user input, classify it into intents using NLP techniques, and respond with predefined answers.
+
+---
+
+### 🧠 Features
+- Text tokenization  
+- Word stemming (Lancaster Stemmer)  
+- Bag of Words model  
+- Intent classification  
+- Simple response generation  
+- Loop-based chat system  
+
+---
+
+### 🚀 Technologies Used
+- Python  
+- NLTK (Natural Language Toolkit)  
+- NumPy  
+
+---
+pip install nltk numpy
+Run the chatbot:python chatbot.py
+
+
+### 📂 Project Files
+## How to Run the Chatbot
+
+Install required libraries:
+
