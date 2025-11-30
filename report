@@ -1,0 +1,5 @@
+MyChatbotProject/
+│
+├── README.md
+├── chatbot.py
+└── requirements.txt
