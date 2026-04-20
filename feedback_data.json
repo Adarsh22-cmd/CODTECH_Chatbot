@@ -1,0 +1,107 @@
+[
+  {
+    "user_text": "hi",
+    "predicted_tag": "greeting",
+    "correct_tag": "greeting"
+  },
+  {
+    "user_text": "how are you",
+    "predicted_tag": "how_are_you",
+    "correct_tag": "how_are_you"
+  },
+  {
+    "user_text": "who are you",
+    "predicted_tag": "about",
+    "correct_tag": "about"
+  },
+  {
+    "user_text": "what are you doing",
+    "predicted_tag": "about",
+    "correct_tag": "about"
+  },
+  {
+    "user_text": "good afternoon",
+    "predicted_tag": "greeting",
+    "correct_tag": "greeting"
+  },
+  {
+    "user_text": "many thanks",
+    "predicted_tag": null,
+    "correct_tag": null
+  },
+  {
+    "user_text": "see you tommorow",
+    "predicted_tag": "goodbye",
+    "correct_tag": "goodbye"
+  },
+  {
+    "user_text": "hi",
+    "predicted_tag": "greeting",
+    "correct_tag": "greeting"
+  },
+  {
+    "user_text": "how are you",
+    "predicted_tag": "how_are_you",
+    "correct_tag": "how_are_you"
+  },
+  {
+    "user_text": "what are you doing",
+    "predicted_tag": "about",
+    "correct_tag": "about"
+  },
+  {
+    "user_text": "good afternoon",
+    "predicted_tag": "greeting",
+    "correct_tag": "greeting"
+  },
+  {
+    "user_text": "Good afternoon",
+    "predicted_tag": "greeting",
+    "correct_tag": "greeting"
+  },
+  {
+    "user_text": "hi",
+    "predicted_tag": "greeting",
+    "correct_tag": "greeting"
+  },
+  {
+    "user_text": "hello",
+    "predicted_tag": "greeting",
+    "correct_tag": "greeting"
+  },
+  {
+    "user_text": "how are you",
+    "predicted_tag": "how_are_you",
+    "correct_tag": "how_are_you"
+  },
+  {
+    "user_text": "what are you doing",
+    "predicted_tag": "about",
+    "correct_tag": "about"
+  },
+  {
+    "user_text": "who are you",
+    "predicted_tag": "about",
+    "correct_tag": "about"
+  },
+  {
+    "user_text": "good afternoon",
+    "predicted_tag": "greeting",
+    "correct_tag": "greeting"
+  },
+  {
+    "user_text": "thanks",
+    "predicted_tag": "thanks",
+    "correct_tag": "thanks"
+  },
+  {
+    "user_text": "see you tommorow",
+    "predicted_tag": "goodbye",
+    "correct_tag": "goodbye"
+  },
+  {
+    "user_text": "see you tommorow",
+    "predicted_tag": "goodbye",
+    "correct_tag": "goodbye"
+  }
+]

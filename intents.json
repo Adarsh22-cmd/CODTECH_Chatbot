@@ -1,0 +1,106 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hello",
+        "Hey",
+        "Good morning",
+        "Good afternoon",
+        "Good evening",
+        "Hello there",
+        "What's up"
+      ],
+      "responses": [
+        "Hello! How can I help you?",
+        "Hi there!",
+        "Hey!",
+        "Hello!"
+      ]
+    },
+    {
+      "tag": "how_are_you",
+      "patterns": [
+        "How are you",
+        "How are you doing",
+        "How do you feel",
+        "Are you fine",
+        "Are you okay"
+      ],
+      "responses": [
+        "I am doing well, thank you.",
+        "I am fine and ready to help you.",
+        "I am doing great. How can I help you?"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "Bye",
+        "Goodbye",
+        "See you",
+        "Take care",
+        "See you later",
+        "Talk to you later",
+        "See you tomorrow"
+      ],
+      "responses": [
+        "Goodbye!",
+        "See you soon!",
+        "Take care!",
+        "Bye! Have a great day."
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": [
+        "Thanks",
+        "Thank you",
+        "That's helpful",
+        "Thanks a lot",
+        "I appreciate it",
+        "Many thanks"
+      ],
+      "responses": [
+        "You're welcome!",
+        "Glad I could help!",
+        "Anytime!",
+        "Happy to help!"
+      ]
+    },
+    {
+      "tag": "about",
+      "patterns": [
+        "Who are you",
+        "What are you",
+        "Tell me about yourself",
+        "What can you do",
+        "Are you a bot",
+        "What are you doing",
+        "What do you do"
+      ],
+      "responses": [
+        "I am an AI chatbot created using Python and semantic understanding.",
+        "I am your AI chatbot project for conversation and intent understanding.",
+        "I answer user messages based on trained intents and learned examples."
+      ]
+    },
+    {
+      "tag": "help",
+      "patterns": [
+        "Help",
+        "Can you help me",
+        "I need help",
+        "Support",
+        "Can you support me",
+        "I want some support"
+      ],
+      "responses": [
+        "Sure, I will try my best to help you.",
+        "Yes, tell me what you need help with.",
+        "I am here to help. Please tell me your problem."
+      ]
+    }
+  ]
+}
