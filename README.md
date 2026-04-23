@@ -24,6 +24,7 @@ CODTECH_Chatbot-main/
 │── pattern_embeddings.npy
 │── requirements.txt
 │── README.md
+```
 
 ## Technologies Used
 Python
