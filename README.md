@@ -15,7 +15,7 @@ It uses semantic similarity with Sentence Transformers to understand user input,
 
 ## Project Structure
 
-## ```bash
+```text
 CODTECH_Chatbot-main/
 │── chatbot.py
 │── intents.json
